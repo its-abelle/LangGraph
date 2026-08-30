@@ -1,0 +1,8 @@
+Human: What is my name and tell me another joke
+AI: I don’t know your name unless you tell me.
+
+Here’s another joke:  
+Why don’t skeletons fight each other?  
+Because they don’t have the guts.
+
+Conversation ended.
